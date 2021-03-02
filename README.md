@@ -24,5 +24,7 @@ The processing notebooks should be run in the order of:
   - full text of the revision
   - diff'd version of the revision text, containing only the changed sections of text between each revision pair
 
+## 4. Project Information
+* Authors: KayYen Wong, [Miriam Redi](http://www.visionresearchwitch.com/) and [Diego Saez-Trumper](https://meta.wikimedia.org/wiki/User:Diego_(WMF)).
 
-For more details, see the [Research Project Page](https://meta.wikimedia.org/wiki/Research:Wiki-Reliability:_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia) for additional information.
+* For more details, see the [Research Project Page](https://meta.wikimedia.org/wiki/Research:Wiki-Reliability:_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia) for additional information.
