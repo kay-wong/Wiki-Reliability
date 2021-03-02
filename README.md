@@ -5,7 +5,7 @@ This repo contains the processing code we used to create the Wiki-Reliability da
 The processing notebooks should be run in the order of:
 
 ## 1. MatchTemplatesUDF.ipynb
-* The `MatchTemplatesUDF.ipynb` works on in PySpark and uses an AVRO version of the XLM Wikipedia dumps (dumps.wikipedia.org). The code can be adapted to the XML version  embedding the ""getTemplatesRegexRelaibility()"" function on the mwxml package (https://pythonhosted.org/mwxml/). 
+* The `MatchTemplatesUDF.ipynb` works on in PySpark and uses an AVRO version of the XLM Wikipedia dumps (dumps.wikipedia.org). The code can be adapted to the XML version  embedding the ""getTemplatesRegexReliability()"" function on the [mwxml package](https://pythonhosted.org/mwxml/). 
 
 * A recent version of the  mediawiki_history table can be  downloaded from https://dumps.wikimedia.org/other/mediawiki_history/
 
