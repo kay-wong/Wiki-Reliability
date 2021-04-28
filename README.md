@@ -25,6 +25,8 @@ The processing notebooks should be run in the order of:
   - diff'd version of the revision text, containing only the changed sections of text between each revision pair
 
 ## 4. Project Information
-* Authors: KayYen Wong, [Miriam Redi](http://www.visionresearchwitch.com/) and [Diego Saez-Trumper](https://meta.wikimedia.org/wiki/User:Diego_(WMF)).
+* Authors: [KayYen Wong](https://kay-wong.github.io/), [Miriam Redi](http://www.visionresearchwitch.com/) and [Diego Saez-Trumper](https://meta.wikimedia.org/wiki/User:Diego_(WMF)).
+
+* Datasets are available for download on [Figshare](https://figshare.com/articles/dataset/Wiki-Reliability_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia/14113799).
 
 * For more details, see the [Research Project Page](https://meta.wikimedia.org/wiki/Research:Wiki-Reliability:_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia) for additional information.
