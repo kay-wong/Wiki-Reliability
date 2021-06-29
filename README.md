@@ -24,7 +24,12 @@ The processing notebooks should be run in the order of:
   - full text of the revision
   - diff'd version of the revision text, containing only the changed sections of text between each revision pair
 
-## 4. Project Information
+
+# Wiki-Reliability Multilingual
+We expanded the Wiki-Reliability processing code beyond English to support the creation of similar template-based datasets for multilingual language projects on Wikipedia. The processing pipeline was rewritten in Spark and is available under the `multilingual/Process_Multilingual_Templates.ipynb` folder. The Spark version of the pipeline is also significantly faster and has slightly higher recall of template addition/removal pairs. We plan to release the multilingual datasets soon.
+
+
+# Project Information
 * Authors: [KayYen Wong](https://kay-wong.github.io/), [Miriam Redi](http://www.visionresearchwitch.com/) and [Diego Saez-Trumper](https://meta.wikimedia.org/wiki/User:Diego_(WMF)).
 
 * Datasets are available for download on [Figshare](https://figshare.com/articles/dataset/Wiki-Reliability_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia/14113799).
