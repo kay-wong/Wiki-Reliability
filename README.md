@@ -32,6 +32,8 @@ We expanded the Wiki-Reliability processing code beyond English to support the c
 # Project Information
 * Authors: [KayYen Wong](https://kay-wong.github.io/), [Miriam Redi](http://www.visionresearchwitch.com/) and [Diego Saez-Trumper](https://meta.wikimedia.org/wiki/User:Diego_(WMF)).
 
+* Paper: [Wiki-Reliability: A Large Scale Dataset for Content Reliability on Wikipedia](https://dl.acm.org/doi/abs/10.1145/3404835.3463253)
+
 * Datasets are available for download on [Figshare](https://figshare.com/articles/dataset/Wiki-Reliability_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia/14113799).
 
 * For more details, see the [Research Project Page](https://meta.wikimedia.org/wiki/Research:Wiki-Reliability:_A_Large_Scale_Dataset_for_Content_Reliability_on_Wikipedia) for additional information.
